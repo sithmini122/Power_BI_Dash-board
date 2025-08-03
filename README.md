@@ -1,0 +1,1 @@
+In here I have uploaded my Power BI projects. I downloded data sets from Kaggle then created dash boards to present my analysis for data sets. I have self learned Power BI and continuously developing my skill further.
